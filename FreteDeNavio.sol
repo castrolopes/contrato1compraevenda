@@ -31,7 +31,8 @@ pragma solidity 0.5.8;
             }
         function public pagarFrete(
             address payable, donoDoNavio.transfer,
-            uint valorTotalDoFrete
+            uint valorTotalDoFrete,
+            msg.sender)
             
             )
         
