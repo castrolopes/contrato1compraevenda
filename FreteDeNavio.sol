@@ -11,7 +11,6 @@ pragma solidity 0.5.8;
             string destino;
         }
         constructor() public {
-            require balanceOf;
             string name = "NAVIOFRETADOR";
             string symbol = "SLOTS";
             uint decimals = 0;
